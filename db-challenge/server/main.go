@@ -32,7 +32,7 @@ type Price struct {
 
 func main() {
 	http.HandleFunc("/cotacao", handler)
-	http.ListenAndServe(":8081", nil)
+	http.ListenAndServe(":8080", nil)
 }
 
 func handler(w http.ResponseWriter, r *http.Request) {

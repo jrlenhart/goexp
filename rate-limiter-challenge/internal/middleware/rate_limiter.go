@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"fmt"
-	"github.com/JuniorLenhart/goexp/rate-limiter-challenge/internal/limiter"
+	"github.com/jrlenhart/goexp/rate-limiter-challenge/internal/limiter"
 	"log"
 	"net/http"
 )

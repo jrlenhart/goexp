@@ -1,3 +1,3 @@
-module github.com/JuniorLenhart/goexp/db-challenge/client
+module github.com/jrlenhart/goexp/db-challenge/client
 
 go 1.21.3

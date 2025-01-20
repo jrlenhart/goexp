@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/JuniorLenhart/goexp/rate-limiter-challenge/internal/configuration"
-	"github.com/JuniorLenhart/goexp/rate-limiter-challenge/internal/limiter"
-	"github.com/JuniorLenhart/goexp/rate-limiter-challenge/internal/middleware"
+	"github.com/jrlenhart/goexp/rate-limiter-challenge/internal/configuration"
+	"github.com/jrlenhart/goexp/rate-limiter-challenge/internal/limiter"
+	"github.com/jrlenhart/goexp/rate-limiter-challenge/internal/middleware"
 	"log"
 	"net/http"
 )

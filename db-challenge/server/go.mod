@@ -1,4 +1,4 @@
-module github.com/JuniorLenhart/goexp/db-challenge/server
+module github.com/jrlenhart/goexp/db-challenge/server
 
 go 1.21.3
 

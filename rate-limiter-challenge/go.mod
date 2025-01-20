@@ -1,4 +1,4 @@
-module github.com/JuniorLenhart/goexp/rate-limiter-challenge
+module github.com/jrlenhart/goexp/rate-limiter-challenge
 
 go 1.21.3
 
